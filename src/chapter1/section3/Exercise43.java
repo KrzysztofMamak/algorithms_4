@@ -1,6 +1,5 @@
 package chapter1.section3;
 
-import edu.princeton.cs.algs4.StdIn;
 import edu.princeton.cs.algs4.StdOut;
 
 import java.io.File;
